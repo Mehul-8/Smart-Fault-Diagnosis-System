@@ -110,11 +110,6 @@ Sample files are provided in the `samples/` folder to test the app immediately:
 
 ---
 
-## Part of Vacation Project Series
-
-This project is part of a 10-project Generative AI application series assigned by **Prof. Satyajit Chakrabarti**, University of Engineering & Management, Kolkata — focused on building real-world AI-powered engineering tools.
-
----
 
 ## Author
 
